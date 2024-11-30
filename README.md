@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header -->
-  <h1>Hi 👋, I'm Hemant Medhsia</h1>
+  <h1>Hi 👋, I'm Vedansh Tiwari</h1>
   <h3>Exploring the World of Code with Passion and Precision</h3>
 
  <p align="center" style="text-align: center; background-color: #121212; padding: 20px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);">
