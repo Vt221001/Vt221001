@@ -74,14 +74,14 @@
   <div>
     <h3>🌐 Connect with Me 🍬</h3>
     <div style="display: flex; justify-content: center; gap: 10px;">
-      <a href="https://www.hackerrank.com/Vt221001" target="_blank">
+      <a href="https://www.hackerrank.com/profile/vt2855028" target="_blank">
         <img src="https://img.shields.io/badge/HackerRank-1769ff?logo=hackerrank&logoColor=white" alt="HackerRank"/>
       </a>
       <a href="https://www.geeksforgeeks.org/user/vedanshtckbq" target="_blank">
         <img src="https://img.shields.io/badge/GeeksForGeeks-%237289DA.svg?logo=geeksforgeeks&logoColor=white" alt="GFG"/>
       </a>
-      <a href="https://facebook.com/Vt221001" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+      <a href="https://leetcode.com/u/vt221001" target="_blank">
+        <img src="https://img.shields.io/badge/leetcode-%231877F2.svg?logo=LeetCode&logoColor=yellow" alt="Leetcode"/>
       </a>
       <a href="https://instagram.com/ved_it_solutions" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
