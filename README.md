@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native (App Development)**
 
-- 👨‍💻 All of my projects are available at [vedanshtiwati.tech/projects](https://vedanshtiwati.tech/projects)
+- 👨‍💻 All of my projects are available at [vedanshtiwati.tech/projects](https://vedanshtiwari.tech/projects)
   
 - 💬 Ask me about **Frontend, Backend, SaaS, Deployment, UI/UX, MERN etc👍**
 
