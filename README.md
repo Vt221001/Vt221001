@@ -77,16 +77,16 @@
       <a href="https://www.hackerrank.com/Vt221001" target="_blank">
         <img src="https://img.shields.io/badge/HackerRank-1769ff?logo=hackerrank&logoColor=white" alt="HackerRank"/>
       </a>
-      <a href="https://auth.geeksforgeeks.org/user/Vt221001" target="_blank">
+      <a href="https://www.geeksforgeeks.org/user/vedanshtckbq" target="_blank">
         <img src="https://img.shields.io/badge/GeeksForGeeks-%237289DA.svg?logo=geeksforgeeks&logoColor=white" alt="GFG"/>
       </a>
       <a href="https://facebook.com/Vt221001" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
       </a>
-      <a href="https://instagram.com/hemant_____g" target="_blank">
+      <a href="https://instagram.com/ved_it_solutions" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
       </a>
-      <a href="https://linkedin.com/in/Vt221001" target="_blank">
+      <a href="https://www.linkedin.com/in/vedansh-tiwari" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </div>
