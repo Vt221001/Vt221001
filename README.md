@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **React Native (App Development)**
 
-- 👨‍💻 All of my projects are available at [vedanshtiwati.tech/projects](https://vedanshtiwari.tech/projects)
+- 👨‍💻 All of my projects are available at [vedanshtiwari.tech/projects](https://vedanshtiwari.tech/projects)
   
 - 💬 Ask me about **Frontend, Backend, SaaS, Deployment, UI/UX, MERN etc👍**
 
-- 📫 How to reach me **vt221001@gmail.com**
+- 📫 How to reach me **vedanshtiwariup@gmail.com**
 
 
 
