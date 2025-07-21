@@ -63,7 +63,9 @@
       <img src="https://img.shields.io/badge/Selenium-%23A8D1FF.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
       <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
       <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+      
+<!--       <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"> -->
+
     </div>
   </div>
 
